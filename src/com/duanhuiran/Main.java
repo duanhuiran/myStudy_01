@@ -3,6 +3,9 @@ package com.duanhuiran;
 public class Main {
 
     public static void main(String[] args){
-        System.out.println("Task_1");
+        int myAge = 23;
+        myAge = 27;
+        float herAge = myAge;
+        System.out.println(herAge);
     }
 }
